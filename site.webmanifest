@@ -16,7 +16,7 @@
     "theme_color": "#222222",
     "background_color": "#ffffff",
     "display": "standalone",
-    "start_url": "/?m=1",
+    "start_url": "https://www.leafcoder.org/?m=1",
     "url": "https://www.leafcoder.org/",
     "lang": "id",
     "screenshots": [],
