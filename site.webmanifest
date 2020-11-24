@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#222222",
+    "theme_color": "#087444",
     "background_color": "#ffffff",
     "display": "standalone",
     "start_url": "https://www.leafcoder.org/?m=1",
