@@ -3,12 +3,12 @@
     "short_name": "Leafcoder",
     "icons": [
         {
-            "src": "/images/-RU0gZ0ASEr8/X7z5rk6zZUI/AAAAAAAAGgY/HCz7ICpdPVcHJVLVHci-U40vnCroISQagCNcBGAsYHQ/s0/android-chrome-192x192.png",
+            "src": "https://1.bp.blogspot.com/-RU0gZ0ASEr8/X7z5rk6zZUI/AAAAAAAAGgY/HCz7ICpdPVcHJVLVHci-U40vnCroISQagCNcBGAsYHQ/s0/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/images/-82MSLliz1Gg/X7z5r1ADsjI/AAAAAAAAGgc/zprOWOdebwEgskloTtoKMszL1Ften4qGgCNcBGAsYHQ/s320/android-chrome-512x512.png",
+            "src": "https://1.bp.blogspot.com/-82MSLliz1Gg/X7z5r1ADsjI/AAAAAAAAGgc/zprOWOdebwEgskloTtoKMszL1Ften4qGgCNcBGAsYHQ/s320/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
@@ -18,7 +18,7 @@
     "display": "standalone",
     "start_url": "https://www.leafcoder.org/",
     "url": "https://www.leafcoder.org/",
-    "lang": "",
+    "lang": "id",
     "screenshots": [],
     "orientation": "portrait"
 }
